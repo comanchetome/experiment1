@@ -1,4 +1,4 @@
-experiment1
+Experiment1
 ===========
 
-Experimental Git Library
+Experimental Git Library.
